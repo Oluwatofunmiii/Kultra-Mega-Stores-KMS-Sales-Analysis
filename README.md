@@ -42,11 +42,15 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 
 **West** Region had the highest sales.
 ## Files in this Repository
-`
+`KMS Case Study_Project.sql`(KMS Case Study_Project.sql): SQL Queries for all analysis questions
 
-
+`README.md`(README.md): This project summary
 
 ## Recommendations
 - Improve shipping alignment with order priority to cut costs.
 - Focus marketing on best-selling product categories in top-performing regions.
 - Target bottom-tier customers with loyalty incentives.
+### Author
+**Adedokun Oluwatofunmi**, Data Analyst | [https://github.com/Oluwatofunmiii]
+
+Project from DSA Data Analysis Capstone
