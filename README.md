@@ -42,7 +42,7 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 
 **West** Region had the highest sales.
 ## Files in this Repository
-[`KMS Case Study_Project.sql`](KMS Case Study_Project.sql): SQL Queries for all analysis questions
+[`KMS Case Study_Project.sql`](KMS): SQL Queries for all analysis questions
 
 [`README.md`](README.md): This project summary
 
