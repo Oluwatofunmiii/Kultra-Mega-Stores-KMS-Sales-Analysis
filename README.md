@@ -43,7 +43,6 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 
 **West** Region had the highest sales.
 ### Analysis
-![Sales by Category](images/Sales_by_Category.png)
 
 
 ## Recommendations
