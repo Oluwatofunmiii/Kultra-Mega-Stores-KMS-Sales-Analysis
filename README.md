@@ -54,7 +54,9 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 
 [`README.md`](README.md): This project summary
 
-[`KMS Dashboard.xlsx`](
+[`KMS Dashboard.xlsx`](KMS): Final dashboard (Excel) 
+
+[`images/`](images/): Visualizations used to support insights
 
 ### Author
 **Adedokun Oluwatofunmi**, Data Analyst | [https://github.com/Oluwatofunmiii]
