@@ -33,7 +33,8 @@ purchase?
 9. Which consumer customer was the most profitable one? 
 10. Which customer returned items, and what segment do they belong to? 
 11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
-## Key Insights
+## Results/ Findings
+### Key Insights
 **Technology** was the top selling Product Category
 
 Majority of **bottom 10 customers** belong to the small business segment and targeted offers or bundles may increase their lifetime value.
@@ -41,15 +42,19 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 **Express Air** is the fastest and most expensive shipping method and was often used for low-priority orders whilst the slowest being **Delivery Truck** was used for high priority orders. This suggests cost inefficiencies and does not appropriately align with order priority. 
 
 **West** Region had the highest sales.
-## Files in this Repository
-[`KMS Case Study_Project.sql`](KMS): SQL Queries for all analysis questions
+### Analysis
 
-[`README.md`](README.md): This project summary
 
 ## Recommendations
 - Improve shipping alignment with order priority to cut costs.
 - Focus marketing on best-selling product categories in top-performing regions.
 - Target bottom-tier customers with loyalty incentives.
+
+## Files in this Repository
+[`KMS Case Study_Project.sql`](KMS): SQL Queries for all analysis questions
+
+[`README.md`](README.md): This project summary
+
 ### Author
 **Adedokun Oluwatofunmi**, Data Analyst | [https://github.com/Oluwatofunmiii]
 
