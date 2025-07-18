@@ -42,7 +42,6 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 **Express Air** is the fastest and most expensive shipping method and was often used for low-priority orders whilst the slowest being **Delivery Truck** was used for high priority orders. This suggests cost inefficiencies and does not appropriately align with order priority. 
 
 **West** Region had the highest sales.
-### Analysis
 
 
 ## Recommendations
@@ -54,6 +53,8 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 [`KMS Case Study_Project.sql`](KMS): SQL Queries for all analysis questions
 
 [`README.md`](README.md): This project summary
+
+[`KMS Dashboard.xlsx`](
 
 ### Author
 **Adedokun Oluwatofunmi**, Data Analyst | [https://github.com/Oluwatofunmiii]
