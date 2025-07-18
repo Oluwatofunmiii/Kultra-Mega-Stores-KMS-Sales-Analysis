@@ -44,6 +44,16 @@ Majority of **bottom 10 customers** belong to the small business segment and tar
 **West** Region had the highest sales.
 ### Analysis
 
+<img width="1652" height="993" alt="Picturesql1" src="https://github.com/user-attachments/assets/1e1e4281-5cb5-48ce-88f1-e245c2cd1560" /> 
+
+
+<img width="1661" height="990" alt="Picturesql2" src="https://github.com/user-attachments/assets/58883f54-5be5-4478-8bbf-a22368a89ed1" />
+
+
+
+<img width="1653" height="993" alt="Picturesql3" src="https://github.com/user-attachments/assets/6c304b0e-dd86-410d-99c6-7d45318d0be2" />
+
+
 
 ## Recommendations
 - Improve shipping alignment with order priority to cut costs.
